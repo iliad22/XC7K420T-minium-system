@@ -1,0 +1,1 @@
+# XC7K420T-minium-system
